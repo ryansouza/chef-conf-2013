@@ -1,6 +1,6 @@
 ## Managing MongoDB Clusters on AWS with Chef
 
-Charity Majors (Systems Engineer at Parse)
+##### Charity Majors (Systems Engineer at Parse)
 
 - backup
     - ebs snapshots, no snaplock?
